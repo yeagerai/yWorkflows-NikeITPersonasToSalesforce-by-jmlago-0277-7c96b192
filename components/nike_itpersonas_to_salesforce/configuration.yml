@@ -3,5 +3,7 @@ description: The NikeITPersonasToSalesforce component connects to the Get Nike I
   specific department, represented by an industry and department name. The retrieved
   personas are then sent to Salesforce using the Send Personas to Salesforce component.
   The output reports whether the data transfer to Salesforce was successful.
+input-class: Department
 name: NikeITPersonasToSalesforce
+output-class: NikeITPersonasToSalesforceIn
 parameters: {}
