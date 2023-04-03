@@ -1,0 +1,7 @@
+description: The NikeITPersonasToSalesforce component connects to the Get Nike IT
+  Personas API using the provided API key and retrieves persona information for a
+  specific department, represented by an industry and department name. The retrieved
+  personas are then sent to Salesforce using the Send Personas to Salesforce component.
+  The output reports whether the data transfer to Salesforce was successful.
+name: NikeITPersonasToSalesforce
+parameters: {}
